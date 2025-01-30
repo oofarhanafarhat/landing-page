@@ -56,11 +56,11 @@ your tastes and requirements.
               Furniture
             </label>
             <label className="flex items-center">
-              <input type="checkbox" className="form-checkbox text-white sm:pr-3 " />
+              <input type="checkbox" className="form-checkbox text-white sm:mr-3 " />
               Homeware
             </label>
             <label className="flex items-center">
-              <input type="checkbox" className="form-checkbox text-white sm:pr-2 " />
+              <input type="checkbox" className="form-checkbox text-white sm:mr-2 " />
               Vases
             </label>
             <label className="flex items-center">
