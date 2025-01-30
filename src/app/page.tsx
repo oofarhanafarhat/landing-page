@@ -82,8 +82,8 @@ your tastes and requirements.
         <section className="bg-[#4E4D93] p-6 border-2 border-gray-400 rounded-md">
           <h2 className="text-2xl font-bold mb-4">Use the content blocks</h2>
           <p className="text-gray-300">
-            We ve built out a multitude of content blocks for your landing
-            pages.
+          As well as components and styles we ve built a bunch of layouts in both mobile and desktop sizes.Play around with replacing and modifying the nested content blocks and to switch device, simply use
+the content block property device to toggle between mobile and desktop.
           </p>
           <div className=" md:mb-10 md:flex w-full lg:h-[265px] mt-4">
             <div className="w-full lg:w-1/2 h-full">
@@ -116,7 +116,7 @@ your tastes and requirements.
         <div className="bg-[#4E4D93] p-6 border-2 border-gray-400 rounded-md">
           <h1 className="text-2xl font-bold mb-4">Check the layouts</h1>
           <p className="mb-6 text-gray-300">
-            We ve built a bunch of layouts in both mobile and desktop sizes.
+          We ve built out a multitude of content blocks for you to use in your landing pages. From hero sections forms CTAs to pricing sections. Everything you need to get started building polished, modern landing pages.
           </p>
           <div className="flex flex-col md:flex-row gap-4">
             <div className="flex flex-col w-full">
