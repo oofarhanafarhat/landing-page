@@ -127,13 +127,13 @@ the content block property device to toggle between mobile and desktop.
                 <h1 className="text-lg font-bold text-black">Avion</h1>
                 <div className="flex space-x-2">
                   <Image
-                    src="/search1.png"
-                    width={12}
-                    height={12}
+                    src="/S1.png"
+                    width={15}
+                    height={15}
                     alt="Search"
                   />
-                  <Image src="/cart.png" width={12} height={12} alt="Cart" />
-                  <Image src="/user.png" width={12} height={12} alt="User" />
+                  <Image src="/cart.png" width={15} height={15} alt="Cart" />
+                  <Image src="/user.png" width={15} height={15} alt="User" />
                 </div>
               </div>
               <div className="bg-[#2A254B] w-full flex justify-center items-center">
@@ -154,7 +154,7 @@ the content block property device to toggle between mobile and desktop.
                 <h1 className="text-lg font-bold text-black">Avion</h1>
                 <div className="flex space-x-2">
                   <Image
-                    src="/search.png"
+                    src="/S1.png"
                     width={15}
                     height={15}
                     alt="Search"
