@@ -181,7 +181,7 @@ the content block property device to toggle between mobile and desktop.
                 <h1 className="text-lg font-bold text-black">Avion</h1>
                 <div className="flex space-x-2">
                   <Image
-                    src="/search.png"
+                    src="/S1.png"
                     width={15}
                     height={15}
                     alt="Search"
